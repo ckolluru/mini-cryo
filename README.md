@@ -12,6 +12,7 @@ The New Camera folder seems to have all the subVIs necessary for the camera. A l
 
 4. C:\Program Files\National Instruments\LabVIEW 2012\user.lib\QI_Transition.llb has a bunch of VIs which do multiple options for the VI.
 Here are all the VIs in this llb file.
-<p align="center">
+
 ![alt text](https://user-images.githubusercontent.com/8373968/45765273-a50f4d00-bc02-11e8-84ef-2ec4e15c9146.png)
-</p>
+
+5.
